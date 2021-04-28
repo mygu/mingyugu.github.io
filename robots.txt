@@ -1,0 +1,7 @@
+# robots.txt
+User-agent: *
+Disallow:
+Sitemap: http://www.mingyugu.com/baidusitemap.xml
+Sitemap: http://mingyugu.com/baidusitemap.xml
+Sitemap: http://www.mingyugu.com/sitemap.xml
+Sitemap: http://mingyugu.com/sitemap.xml
